@@ -77,11 +77,7 @@ helm list
 ![hellist](images/helm_list.png "hellist")
 
 
-```
-
 sample app hello-world on browser
-
-```
 
 ![helloworld](images/microservice_k8.png "helloworld")
 
