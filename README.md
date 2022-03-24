@@ -42,7 +42,7 @@ go test -v -run -timeout 30m
  
 ### Architecture of webServer:
 
-![diagram](images/diagram.png "diagram")
+![diagram](images/diagramNew.png "diagram")
 
 ### Apache Web Server Implementation Screenshots:
 
