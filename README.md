@@ -47,9 +47,9 @@ go test -v -run -timeout 30m
 ### Apache Web Server Implementation Screenshots:
 
 
-![webServerBrowser](images/webserver_browser.png "webServerBrowser")
+![webServerBrowser](images/webserverBrowser.png "webServerBrowser")
 
-![webServerPortal](images/webserver_portal.png "webServerPortal")
+![webServerPortal](images/webserverPortal.png "webServerPortal")
 
 ### Helm Microservice
 
@@ -60,26 +60,26 @@ To install the hello-world web app using helm, navigate to the helloworld direct
 helm install hello-world
 
 ```
-![helminstall](images/helm-install.png "helminstall")
+![helminstall](images/helmInstall.png "helminstall")
 
 ```
 
 helm upgrade hello-world
 
 ```
-![helmupgrade](images/helm_upgrade.png "helmupgrade")
+![helmupgrade](images/helmUpgrade.png "helmupgrade")
 
 ```
 
 helm list
 
 ```
-![hellist](images/helm_list.png "hellist")
+![hellist](images/helmList.png "hellist")
 
 
 sample app hello-world on browser
 
-![helloworld](images/microservice_k8.png "helloworld")
+![helloworld](images/microserviceK8.png "helloworld")
 
 ## Author
 
