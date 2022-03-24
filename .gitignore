@@ -1,0 +1,34 @@
+# Ignore plan files and output of the show command
+*tfplan*
+plan.txt
+
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+*.terraform.lock.hcl
+*.out
+*output.json
+*.exe
+
+# Crash log files
+crash.log
+
+# logs
+*.log
+
+# Directories
+.terraform/
+
+# SSH Keys
+*.pem
+
+# Backup files
+*.bak
+
+# Ignored Terraform files
+*gitignore*.tf
+
+# Ignored vscode files
+.vscode/
