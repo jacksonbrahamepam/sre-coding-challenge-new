@@ -11,6 +11,7 @@ plan.txt
 *.out
 *output.json
 *.exe
+*.tfvars
 
 # Crash log files
 crash.log
